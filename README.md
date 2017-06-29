@@ -8,8 +8,6 @@
 
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function by fitting a line with the same tangent for each of the left and right lane line and extend it to the bottom max Y coordinate. I also had to check the starting coordinate of the line so as to make it inside the region of interest.
 
-![Curved Road][video1]
-
 
 ### 2. Identify potential shortcomings with your current pipeline
 

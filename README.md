@@ -3,7 +3,7 @@
 
 [//]: # (Video References)
 
-[video1]: ./test_videos_output/challenge.jpg "Curved Road"
+[video1]: ./test_videos_output/challenge.mp4 "Curved Road"
 
 ---
 

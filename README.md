@@ -5,6 +5,7 @@
 
 [video1]: ./test_videos_output/challenge.mp4 "Curved Road"
 
+[![Watch the video](https://github.com/lifeunion/basiclanemasking/blob/master/test_images_output/whiteCarLaneSwitch.jpg)](https://github.com/lifeunion/basiclanemasking/blob/master/test_videos_output/challenge.mp4)
 ---
 
 ### Reflection

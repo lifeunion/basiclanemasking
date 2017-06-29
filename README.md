@@ -1,11 +1,5 @@
 **First Project: Masking Lines on the Road Image** 
 <img src="test_images_output/whiteCarLaneSwitch.jpg" width="480"/>
-
-[//]: # (Video References)
-
-[video1]: ./test_videos_output/challenge.mp4 "Curved Road"
-
-[![Watch the video](https://github.com/lifeunion/basiclanemasking/blob/master/test_images_output/whiteCarLaneSwitch.jpg)](https://github.com/lifeunion/basiclanemasking/blob/master/test_videos_output/challenge.mp4)
 ---
 
 ### Reflection
